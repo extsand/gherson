@@ -2,7 +2,7 @@
 
 Welcome to project
 
-commti
+fix the line
 
 1. Fix path to assets
 2. Fix basic structure project
