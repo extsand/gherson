@@ -3,6 +3,9 @@
 Welcome to project
 
 fix the line ))
+fix the line ))
+fix the line ))
+fix the line ))
 
 1. Fix path to assets
 2. Fix basic structure project
