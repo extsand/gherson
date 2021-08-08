@@ -2,7 +2,11 @@
 
 Welcome to project
 
+<<<<<<< HEAD
 fix the line ))
+=======
+commti
+>>>>>>> parent of 035693a... a
 
 1. Fix path to assets
 2. Fix basic structure project
