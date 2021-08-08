@@ -2,6 +2,8 @@
 
 Welcome to project
 
+commti
+
 1. Fix path to assets
 2. Fix basic structure project
 3. Fix scss import
